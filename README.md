@@ -86,7 +86,10 @@ Se adjuntan capturas de pantalla del resultado de las consultas ejecutadas en pg
 #### 8. Consulta de libros prestados por estudiante (`JOIN`)
 ![Captura de la consulta JOIN](captura_join_query.png)
 
-#### 9. Creación y consulta de la vista `libros_prestados_view`
+#### 9. Creación de la vista `libros_prestados_view`
 ![Captura de la creación y consulta de la vista](captura_view_query.png)
+
+#### 10. Consulta de la vista `libros_prestados_view`
+![Captura de la creación y consulta de la vista](captura_consulta_view.png)
 
 _¡Gracias por revisar el proyecto!_
